@@ -15,11 +15,11 @@ terraform {
 provider "aws" {
   region = "us-east-1"
 
-  #access_key = "xxxx"
-  #secret_key = "xxxx"
-  #token = "xxxx"
+  access_key = "ASIA47CRYCV63RD6WZ5M"
+  secret_key = "zOYbtNPYiy+IaElUnzW4KzXxDBLNTxV5HXiy+Xe7"
+  token = "FwoGZXIvYXdzEH4aDGUoeA6n8I/XpoLVZSK+AYkSJeTI4UYAKN6fnRdlaIxenQMkbylSWP+M4m9J9lkI4+VxbD+c4KH5LHvm0l6HseUlx2iuIeJDsCNyMfBfybxoFK/+Fux4qf+c+itb4fcb1hkCtDXSDhhlomGJoMJuXkWFokZHj8zg7l0Nb2xjEa9sxXHvjD3KKwkCm9QrjeEmw/35SNeJHK+j1cRbtx/d57SQDfJb3p/nvQknUJZQEl7ivIcBLGYtmHPWZiJ9tJK3irAedpP66ytYM144cvQop9nLrwYyLdW5KZCiQ4wlVGmfzcc1qxFYg9RuuPHHxsCT9fSXctBXuiWFWkXBOt7JLXI93g=="
 
-  profile = "vocareum"
+  #profile = "vocareum"
 }
 
 provider "cloudinit" {
