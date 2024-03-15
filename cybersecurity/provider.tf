@@ -19,7 +19,7 @@ provider "aws" {
   secret_key = "Now0A226ip5PjrvXEvP5zFPFJHJk2p2cgJLxujkT"
   token = "FwoGZXIvYXdzEJP//////////wEaDAti3+O6NxHL/Kt5SCK+AVSGRqa1rB8gWQOxsEZfoAejY4CMXPpwyVHi8miSLmGzoBDh1LEhPn/mndap3NfJCfJdqLklefc85ggQCE7OUTh5bX/QKZbJZe+Nfes8n2MYeWzPaZiJTO8lMC0CRGd5cgL90pqj5wZZwo2XXNRUHyLHS2Kn09lmkox7o1idRA7tJ8Nncgr28NYtwM2BFCiUH6BOiQmT1/zX2/e7KmcA1WoYUShiplPkFzVEQQEHYv18IgZyXkLa2iXkPP3Lqwko8a3QrwYyLbsUivkXPpzvLiJGE9SUYoYAheD9wv6wqmNj7MerZ8CsNXft487c59GJMsh0dA=="
 
-  #profile = "vocarum"
+  #profile = "vocareum"
 }
 
 provider "cloudinit" {
